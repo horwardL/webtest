@@ -186,7 +186,7 @@ img {
 	z-index: 50;
 }
 #body.home .header div h1 {
-	color: #FFFFFF;
+	color: #FF0000;
 	display: block;
 	float: right;
 	font-family: audiowide-regular-webfont;
@@ -202,7 +202,7 @@ img {
 	z-index: 60;
 }
 #body.home .header div h2 {
-	color: #FFFFFF;
+	color: #00FF00;
 	display: block;
 	float: right;
 	font-family: Arial;
